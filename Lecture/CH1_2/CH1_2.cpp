@@ -1,20 +1,34 @@
-// CH1_2.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// CH1_2.cpp : Array
 //
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Hello World!\n";
+    double score[5];
+
+    cout << "1 번째 학생 점수를 입력해주세요 : ";
+    cin >> score[0];
+
+    cout << "2 번째 학생 점수를 입력해주세요 : ";
+    cin >> score[1];
+
+    cout << "3 번째 학생 점수를 입력해주세요 : ";
+    cin >> score[2];
+
+    cout << "4 번째 학생 점수를 입력해주세요 : ";
+    cin >> score[3];
+
+    cout << "5 번째 학생 점수를 입력해주세요 : ";
+    cin >> score[4];
+
+    double tot = score[0] + score[1] + score[2] + score[3] + score[4];
+    double avg = tot / 5;
+
+    cout << "총점 : " << tot << endl;
+    cout << "평균 : " << avg << endl;
+
+    return 0;
 }
-
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file

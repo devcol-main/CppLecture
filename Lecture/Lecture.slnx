@@ -5,4 +5,5 @@
   </Configurations>
   <Project Path="CH1/CH1.vcxproj" Id="2e65bb0f-029d-440a-b12a-2c6092bcbea5" />
   <Project Path="CH1_2/CH1_2.vcxproj" Id="9774ca09-d8c1-4e70-acdb-3ce1c61983b4" />
+  <Project Path="Ch1_2Func/Ch1_2Func.vcxproj" Id="23a1bd40-4283-4466-a492-5fb6b62dec15" />
 </Solution>

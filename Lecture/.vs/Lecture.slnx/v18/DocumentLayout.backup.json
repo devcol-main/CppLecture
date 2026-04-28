@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\i9lee\\Documents\\GD_Sync\\CppLecture\\Lecture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{23A1BD40-4283-4466-A492-5FB6B62DEC15}|Ch1_2Func\\Ch1_2Func.vcxproj|C:\\Users\\i9lee\\Documents\\GD_Sync\\CppLecture\\Lecture\\Ch1_2Func\\Ch1_2Func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23A1BD40-4283-4466-A492-5FB6B62DEC15}|Ch1_2Func\\Ch1_2Func.vcxproj|solutionrelative:Ch1_2Func\\Ch1_2Func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9774CA09-D8C1-4E70-ACDB-3CE1C61983B4}|CH1_2\\CH1_2.vcxproj|C:\\Users\\i9lee\\Documents\\GD_Sync\\CppLecture\\Lecture\\CH1_2\\CH1_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9774CA09-D8C1-4E70-ACDB-3CE1C61983B4}|CH1_2\\CH1_2.vcxproj|solutionrelative:CH1_2\\CH1_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E65BB0F-029D-440A-B12A-2C6092BCBEA5}|CH1\\CH1.vcxproj|C:\\Users\\i9lee\\Documents\\GD_Sync\\CppLecture\\Lecture\\CH1\\CH1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2E65BB0F-029D-440A-B12A-2C6092BCBEA5}|CH1\\CH1.vcxproj|solutionrelative:CH1\\CH1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -31,15 +39,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Ch1_2Func.cpp",
+              "DocumentMoniker": "C:\\Users\\i9lee\\Documents\\GD_Sync\\CppLecture\\Lecture\\Ch1_2Func\\Ch1_2Func.cpp",
+              "RelativeDocumentMoniker": "Ch1_2Func\\Ch1_2Func.cpp",
+              "ToolTip": "C:\\Users\\i9lee\\Documents\\GD_Sync\\CppLecture\\Lecture\\Ch1_2Func\\Ch1_2Func.cpp",
+              "RelativeToolTip": "Ch1_2Func\\Ch1_2Func.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-28T09:50:28.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CH1_2.cpp",
+              "DocumentMoniker": "C:\\Users\\i9lee\\Documents\\GD_Sync\\CppLecture\\Lecture\\CH1_2\\CH1_2.cpp",
+              "RelativeDocumentMoniker": "CH1_2\\CH1_2.cpp",
+              "ToolTip": "C:\\Users\\i9lee\\Documents\\GD_Sync\\CppLecture\\Lecture\\CH1_2\\CH1_2.cpp",
+              "RelativeToolTip": "CH1_2\\CH1_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-28T03:53:30.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CH1.cpp",
               "DocumentMoniker": "C:\\Users\\i9lee\\Documents\\GD_Sync\\CppLecture\\Lecture\\CH1\\CH1.cpp",
               "RelativeDocumentMoniker": "CH1\\CH1.cpp",
               "ToolTip": "C:\\Users\\i9lee\\Documents\\GD_Sync\\CppLecture\\Lecture\\CH1\\CH1.cpp",
               "RelativeToolTip": "CH1\\CH1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-28T02:30:54.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T02:30:54.418Z"
             }
           ]
         }
